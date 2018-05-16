@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 14,
   "editor.rulers": [
     80,
     120
@@ -19,8 +19,8 @@
   "files.trimTrailingWhitespace": true,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "boundary",
-  "workbench.colorTheme": "Ayu Mirage",
-  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Ayu Dark",
+  "window.zoomLevel": 0.8,
   "extensions.ignoreRecommendations": false,
   "go.coverageDecorator": "gutter",
   "search.exclude": {
@@ -37,7 +37,7 @@
   "go.coverOnSave": false,
   "explorer.confirmDragAndDrop": false,
   "search.smartCase": true,
-  "editor.fontFamily": "FuraCode Nerd Font, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "FuraCode Nerd Font, Fira Code, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "bracketPairColorizer.showVerticalScopeLine": false,
   "bracketPairColorizer.showHorizontalScopeLine": false
