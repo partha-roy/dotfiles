@@ -16,6 +16,7 @@ dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 PKief.material-icon-theme
 redhat.java
+Dart-Code.flutter
 Borke.puppet
 CoenraadS.bracket-pair-colorizer
 EditorConfig.EditorConfig
