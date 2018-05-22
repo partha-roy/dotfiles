@@ -40,5 +40,6 @@
   "bracketPairColorizer.showVerticalScopeLine": false,
   "bracketPairColorizer.showHorizontalScopeLine": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Ayu Mirage"
+  "workbench.colorTheme": "Ayu Mirage",
+  "git.autofetch": true
 }
