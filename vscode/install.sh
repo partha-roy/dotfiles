@@ -12,13 +12,15 @@ if test "$(which code)"; then
 
 	# from `code --list-extensions`
 	modules="
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+PKief.material-icon-theme
+redhat.java
 Borke.puppet
 CoenraadS.bracket-pair-colorizer
 EditorConfig.EditorConfig
-HookyQR.beautify
 PeterJausovec.vscode-docker
 be5invis.toml
-caarlos0.language-prometheus
 carolynvs.dep
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
@@ -29,12 +31,10 @@ ipedrazas.kubernetes-snippets
 lukehoban.Go
 mauve.terraform
 ms-python.python
-octref.vetur
 patbenatar.advanced-new-file
 pnp.polacode
 rebornix.Ruby
 rust-lang.rust
-sbrink.elm
 shanoor.vscode-nginx
 shinnn.alex
 teabyii.ayu

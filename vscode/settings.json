@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.rulers": [
     80,
     120
@@ -10,17 +10,16 @@
   "explorer.openEditors.visible": 0,
   "window.restoreWindows": "none",
   "terminal.external.osxExec": "iTerm.app",
-  "files.autoSave": "onFocusChange",
+  "files.autoSave": "onWindowChange",
   "extensions.autoUpdate": true,
-  "workbench.iconTheme": "ayu",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.cursorStyle": "line",
   "editor.cursorBlinking": "solid",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "files.trimTrailingWhitespace": true,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "boundary",
-  "workbench.colorTheme": "Ayu Dark",
-  "window.zoomLevel": 0.8,
+  "window.zoomLevel": 0,
   "extensions.ignoreRecommendations": false,
   "go.coverageDecorator": "gutter",
   "search.exclude": {
@@ -28,8 +27,7 @@
     "**/bower_components": true,
     "/vendor": true
   },
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.fontAliasing": "antialiased",
+  "workbench.startupEditor": "welcomePage",
   "editor.fontWeight": "300",
   "docker.showExplorer": false,
   "workbench.editor.showIcons": true,
@@ -37,9 +35,10 @@
   "go.coverOnSave": false,
   "explorer.confirmDragAndDrop": false,
   "search.smartCase": true,
-  "editor.fontFamily": "FuraCode Nerd Font, Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "FuraCode Nerd Font, Fira Code,Ubuntu Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "bracketPairColorizer.showVerticalScopeLine": false,
   "bracketPairColorizer.showHorizontalScopeLine": false,
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "Ayu Mirage"
 }
