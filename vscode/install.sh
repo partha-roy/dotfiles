@@ -17,10 +17,11 @@ esbenp.prettier-vscode
 PKief.material-icon-theme
 redhat.java
 Dart-Code.flutter
-Borke.puppet
+jpogran.puppet-vscode
 CoenraadS.bracket-pair-colorizer
 EditorConfig.EditorConfig
 PeterJausovec.vscode-docker
+ms-vscode.go
 be5invis.toml
 carolynvs.dep
 esbenp.prettier-vscode
@@ -29,7 +30,6 @@ formulahendry.auto-rename-tag
 foxundermoon.shell-format
 haaaad.ansible
 ipedrazas.kubernetes-snippets
-lukehoban.Go
 mauve.terraform
 ms-python.python
 patbenatar.advanced-new-file
